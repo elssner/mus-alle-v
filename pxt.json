@@ -2,8 +2,7 @@
     "name": "mus-alle-v",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
